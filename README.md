@@ -2,7 +2,8 @@
 
 In this project, we are predicting closing stock price of any given organization, we developed a web application for predicting close stock price using LMS and LSTM algorithms for prediction. We have applied datasets belonging to Google, Nifty50, TCS, Infosys and Reliance Stocks and achieved above 95% accuracy for these datasets.
 
-USE IN Project 
+Project 
+
  1  Numpy 
  
 Multidimensional arrays: NumPy's main object is the ndarray (N-dimensional array), which is a powerful data structure for storing and manipulating large arrays of homogeneous data. These arrays can have any number of dimensions and can be used to represent vectors, matrices, or any other numerical data.
